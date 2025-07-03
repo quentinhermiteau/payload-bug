@@ -1,0 +1,12 @@
+.blocks-drawer__default-image {
+  & img {
+    object-fit: contain !important;
+  }
+}
+
+.step-nav__home {
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
